@@ -9,7 +9,7 @@ const Header = () => (
       height="32"
       alt=""
     />
-      Emoji Search
+      EmojiPedia
     <img
       src="//cdn.jsdelivr.net/emojione/assets/png/1f63a.png"
       width="32"

@@ -1,0 +1,46 @@
+.modal-container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-content {
+    background: #ffffff;
+    width: 80%;
+    padding: 20px;
+    min-height: 250px;
+}
+.modal-content h1{
+    text-align: center;
+    font-size: 80px;
+    margin: 0;
+    line-height: 1;
+}
+.modal-content h3 {
+    text-align: center;
+}
+.modal-content p{
+    word-break: break-word;
+    text-align: center;
+    font-family: monospace;
+    font-size: 18px;
+    min-height: 70px;
+}
+.modal-content a {
+    color: black;
+    font-size: 12px;
+}
+.modal-content button{
+    display: block;
+    padding: 5px 10px;
+    margin: 10px 0;
+}
+.modal-content textarea {
+    width: 100%;
+    height: 80px;
+    font-size: 15px;
+}
